@@ -27,7 +27,9 @@ body {
 }
 
 .landing-inner img {
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 17, 0.7);
+    max-width: 100%;
+    height: auto
 }
 
 .landing h1 {
